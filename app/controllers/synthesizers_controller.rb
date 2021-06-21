@@ -1,0 +1,2 @@
+class SynthesizersController < ApplicationController
+end
